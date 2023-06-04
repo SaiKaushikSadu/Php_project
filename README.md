@@ -37,6 +37,9 @@ For Windows, the PHP binaries can be obtained from
 
 ### Features
 Login and sign up using SESSIONS.
+
 User Dashboard with Update Profile Option
+
 Insert Images in PHP 
+
 By enabling file uplodd in php.iini file.
